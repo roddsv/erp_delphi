@@ -1,0 +1,9 @@
+object ServiceCadastro: TServiceCadastro
+  Height = 750
+  Width = 1000
+  PixelsPerInch = 120
+  object Qry_Pessoas: TFDQuery
+    Left = 136
+    Top = 232
+  end
+end

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/15 16:56:27.000.760,=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/15 16:58:41.000.516,D:\meus projetos\Delphi\ERPDelphi\src\views\View.principal.dfm=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/15 16:58:41.000.516,D:\meus projetos\Delphi\ERPDelphi\src\views\View.principal.pas=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/15 16:59:29.000.176,D:\meus projetos\Delphi\ERPDelphi\ERPDelphi.dproj=C:\Users\rodri\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/03/18 18:13:06.000.286,=D:\meus projetos\Delphi\ERPDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/18 18:13:57.000.688,D:\meus projetos\Delphi\ERPDelphi\src\services\Service.conexao.pas=D:\meus projetos\Delphi\ERPDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/18 18:13:57.000.688,D:\meus projetos\Delphi\ERPDelphi\src\services\Service.conexao.dfm=D:\meus projetos\Delphi\ERPDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/03/18 20:02:35.000.432,=D:\meus projetos\Delphi\ERPDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/18 20:02:58.000.363,D:\meus projetos\Delphi\ERPDelphi\src\services\Service.cadastro.pas=D:\meus projetos\Delphi\ERPDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/18 20:02:58.000.363,D:\meus projetos\Delphi\ERPDelphi\src\services\Service.cadastro.dfm=D:\meus projetos\Delphi\ERPDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/03/18 20:53:20.000.623,=D:\meus projetos\Delphi\ERPDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/18 20:53:52.000.984,D:\meus projetos\Delphi\ERPDelphi\src\providers\Provider.constants.pas=D:\meus projetos\Delphi\ERPDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/18 21:28:50.618,=D:\meus projetos\Delphi\ERPDelphi\Unit1.pas</Transaction>
+    <Transaction>2024/03/18 21:29:22.778,D:\meus projetos\Delphi\ERPDelphi\src\views\View.base.dfm=D:\meus projetos\Delphi\ERPDelphi\Unit1.dfm</Transaction>
+    <Transaction>2024/03/18 21:29:22.778,D:\meus projetos\Delphi\ERPDelphi\src\views\View.base.pas=D:\meus projetos\Delphi\ERPDelphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

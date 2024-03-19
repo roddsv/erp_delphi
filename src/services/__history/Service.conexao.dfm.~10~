@@ -1,0 +1,28 @@
+object ServiceConexao: TServiceConexao
+  OnCreate = DataModuleCreate
+  Height = 750
+  Width = 1000
+  PixelsPerInch = 120
+  object FDConn: TFDConnection
+    Params.Strings = (
+      'Database=D:\meus projetos\Delphi\ERPDelphi\ERP_DELPHI_DB.FDB'
+      'User_Name=sysdba'
+      'Password=masterkey'
+      'Protocol=TCPIP'
+      'Server=Localhost'
+      'DriverID=FB')
+    Connected = True
+    LoginPrompt = False
+    Left = 40
+    Top = 48
+  end
+  object WaitCursor: TFDGUIxWaitCursor
+    Provider = 'Forms'
+    Left = 288
+    Top = 144
+  end
+  object FBDriverLink: TFDPhysFBDriverLink
+    Left = 464
+    Top = 128
+  end
+end
